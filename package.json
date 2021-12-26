@@ -1,0 +1,20 @@
+{
+  "name": "@orange07/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangeO7/tiny.git"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orangeO7/tiny/issues"
+  },
+  "homepage": "https://github.com/orangeO7/tiny#readme"
+}
